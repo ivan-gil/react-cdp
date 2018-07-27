@@ -1,0 +1,28 @@
+{
+  "name": "react-cdp",
+  "version": "1.0.0",
+  "description": "react app on express server using webpack 4/redux/SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-gil/react-cdp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-gil/react-cdp/issues"
+  },
+  "homepage": "https://github.com/ivan-gil/react-cdp#readme",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
