@@ -59,10 +59,10 @@ module.exports = {
     plugins: [
         new CaseSensitivePlugin(),
         new webpack.DefinePlugin({
-            NODE_ENV: 'development',
+            NODE_ENV: 'production',
         }),
         new HtmlWebpackPlugin({
-            title: 'React CDP development',
+            title: 'React CDP production',
             hash: true,
             template: './index.html',
         }),
